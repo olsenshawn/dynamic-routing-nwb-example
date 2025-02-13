@@ -1,3 +1,3 @@
-# aind-capsule-template
+# dynamic-routing-nwb-example
 
-Basic structure of a capsule to be customized as needed.
+Capsule with example NWB file from Dynamic Routing experiment.
